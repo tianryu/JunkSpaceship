@@ -1,0 +1,10 @@
+Scrap Round is a character subset of ChillRoundF (寒蝉全圆体), version 3.0.
+Original author: ChillType
+Source: https://github.com/Warren2060/ChillRound
+Original file: ChillRoundF v3.0.ttf
+Retrieved: 2026-10-29
+
+Modifications: subset to game characters, converted to WOFF2, renamed to
+Scrap Round to respect the source's Reserved Font Names.
+This modified font remains licensed under SIL Open Font License 1.1.
+See OFL.txt for the copyright statement and full license.

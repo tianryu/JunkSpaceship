@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-28T16:02:27.908Z",
+  "environment": "Desktop IAB, actual native pointer clicks on isolated fixture, 360x640 CSS viewport",
+  "before": {
+    "icon450": "no upgrade",
+    "label450": "no upgrade",
+    "price450": "no upgrade"
+  },
+  "after": [
+    {
+      "area": "icon",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "name",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "price",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "top-left",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "bottom-right",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "blank",
+      "durationMs": 80,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "icon",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "name",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "price",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "top-left",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "bottom-right",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "blank",
+      "durationMs": 300,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "icon",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "name",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "price",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "top-left",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "bottom-right",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    },
+    {
+      "area": "blank",
+      "durationMs": 650,
+      "level": "4",
+      "passed": true
+    }
+  ],
+  "additional": {
+    "keyboardEnter": "3 -> 4 exactly once",
+    "navigation650ms": true,
+    "clear650ms": true,
+    "settingsEdge650ms": true,
+    "cashEdge650ms": true,
+    "repeatPurchase": "4 -> 5 exactly once",
+    "consoleErrors": []
+  }
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "fixture": "early",
+    "rects": [
+      {
+        "name": "topbar",
+        "rect": {
+          "bottom": 30,
+          "height": 28,
+          "left": 12,
+          "right": 350,
+          "top": 2,
+          "width": 338,
+          "x": 12,
+          "y": 2
+        }
+      },
+      {
+        "name": "wallet",
+        "rect": {
+          "bottom": 60,
+          "height": 23,
+          "left": 14,
+          "right": 348,
+          "top": 37,
+          "width": 334,
+          "x": 14,
+          "y": 37
+        }
+      },
+      {
+        "name": "ship",
+        "rect": {
+          "bottom": 162,
+          "height": 96,
+          "left": 5,
+          "right": 355,
+          "top": 66,
+          "width": 350,
+          "x": 5,
+          "y": 66
+        }
+      },
+      {
+        "name": "arena",
+        "rect": {
+          "bottom": 407,
+          "height": 240,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "upgrades",
+        "rect": {
+          "bottom": 563,
+          "height": 151,
+          "left": 5,
+          "right": 355,
+          "top": 412,
+          "width": 350,
+          "x": 5,
+          "y": 412
+        }
+      },
+      {
+        "name": "nav",
+        "rect": {
+          "bottom": 625,
+          "height": 57,
+          "left": 5,
+          "right": 355,
+          "top": 568,
+          "width": 350,
+          "x": 5,
+          "y": 568
+        }
+      }
+    ]
+  },
+  {
+    "fixture": "clear_screen",
+    "rects": [
+      {
+        "name": "topbar",
+        "rect": {
+          "bottom": 30,
+          "height": 28,
+          "left": 12,
+          "right": 350,
+          "top": 2,
+          "width": 338,
+          "x": 12,
+          "y": 2
+        }
+      },
+      {
+        "name": "wallet",
+        "rect": {
+          "bottom": 60,
+          "height": 23,
+          "left": 14,
+          "right": 348,
+          "top": 37,
+          "width": 334,
+          "x": 14,
+          "y": 37
+        }
+      },
+      {
+        "name": "ship",
+        "rect": {
+          "bottom": 162,
+          "height": 96,
+          "left": 5,
+          "right": 355,
+          "top": 66,
+          "width": 350,
+          "x": 5,
+          "y": 66
+        }
+      },
+      {
+        "name": "arena",
+        "rect": {
+          "bottom": 407,
+          "height": 240,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "upgrades",
+        "rect": {
+          "bottom": 563,
+          "height": 151,
+          "left": 5,
+          "right": 355,
+          "top": 412,
+          "width": 350,
+          "x": 5,
+          "y": 412
+        }
+      },
+      {
+        "name": "nav",
+        "rect": {
+          "bottom": 625,
+          "height": 57,
+          "left": 5,
+          "right": 355,
+          "top": 568,
+          "width": 350,
+          "x": 5,
+          "y": 568
+        }
+      }
+    ]
+  },
+  {
+    "fixture": "research",
+    "rects": [
+      {
+        "name": "topbar",
+        "rect": {
+          "bottom": 30,
+          "height": 28,
+          "left": 12,
+          "right": 350,
+          "top": 2,
+          "width": 338,
+          "x": 12,
+          "y": 2
+        }
+      },
+      {
+        "name": "wallet",
+        "rect": {
+          "bottom": 60,
+          "height": 23,
+          "left": 14,
+          "right": 348,
+          "top": 37,
+          "width": 334,
+          "x": 14,
+          "y": 37
+        }
+      },
+      {
+        "name": "ship",
+        "rect": {
+          "bottom": 162,
+          "height": 96,
+          "left": 5,
+          "right": 355,
+          "top": 66,
+          "width": 350,
+          "x": 5,
+          "y": 66
+        }
+      },
+      {
+        "name": "arena",
+        "rect": {
+          "bottom": 407,
+          "height": 240,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "upgrades",
+        "rect": {
+          "bottom": 563,
+          "height": 151,
+          "left": 5,
+          "right": 355,
+          "top": 412,
+          "width": 350,
+          "x": 5,
+          "y": 412
+        }
+      },
+      {
+        "name": "nav",
+        "rect": {
+          "bottom": 631,
+          "height": 49,
+          "left": 5,
+          "right": 355,
+          "top": 582,
+          "width": 350,
+          "x": 5,
+          "y": 582
+        }
+      },
+      {
+        "name": "drawer research-drawer",
+        "rect": {
+          "bottom": 577,
+          "height": 410,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "research-grid",
+        "rect": {
+          "bottom": 469.3333435058594,
+          "height": 190,
+          "left": 14.333333969116213,
+          "right": 345.6666774749756,
+          "top": 279.3333435058594,
+          "width": 331.3333435058594,
+          "x": 14.333333969116213,
+          "y": 279.3333435058594
+        }
+      }
+    ]
+  },
+  {
+    "fixture": "salvage",
+    "rects": [
+      {
+        "name": "topbar",
+        "rect": {
+          "bottom": 30,
+          "height": 28,
+          "left": 12,
+          "right": 350,
+          "top": 2,
+          "width": 338,
+          "x": 12,
+          "y": 2
+        }
+      },
+      {
+        "name": "wallet",
+        "rect": {
+          "bottom": 60,
+          "height": 23,
+          "left": 14,
+          "right": 348,
+          "top": 37,
+          "width": 334,
+          "x": 14,
+          "y": 37
+        }
+      },
+      {
+        "name": "ship",
+        "rect": {
+          "bottom": 162,
+          "height": 96,
+          "left": 5,
+          "right": 355,
+          "top": 66,
+          "width": 350,
+          "x": 5,
+          "y": 66
+        }
+      },
+      {
+        "name": "arena",
+        "rect": {
+          "bottom": 407,
+          "height": 240,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "upgrades",
+        "rect": {
+          "bottom": 563,
+          "height": 151,
+          "left": 5,
+          "right": 355,
+          "top": 412,
+          "width": 350,
+          "x": 5,
+          "y": 412
+        }
+      },
+      {
+        "name": "nav",
+        "rect": {
+          "bottom": 625,
+          "height": 57,
+          "left": 5,
+          "right": 355,
+          "top": 568,
+          "width": 350,
+          "x": 5,
+          "y": 568
+        }
+      },
+      {
+        "name": "drawer",
+        "rect": {
+          "bottom": 563,
+          "height": 396,
+          "left": 5,
+          "right": 355,
+          "top": 167,
+          "width": 350,
+          "x": 5,
+          "y": 167
+        }
+      },
+      {
+        "name": "salvage-choices",
+        "rect": {
+          "bottom": 522.3333435058594,
+          "height": 162,
+          "left": 16.33333396911621,
+          "right": 333.6666774749756,
+          "top": 360.3333435058594,
+          "width": 317.3333435058594,
+          "x": 16.33333396911621,
+          "y": 360.3333435058594
+        }
+      }
+    ]
+  }
+]

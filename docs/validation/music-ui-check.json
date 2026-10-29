@@ -1,0 +1,26 @@
+{
+  "playing": {
+    "count": 1,
+    "duration": 69.903673,
+    "loop": true,
+    "paused": false,
+    "ready": 4,
+    "time": 55.576185
+  },
+  "duringAd": {
+    "count": 1,
+    "duration": 69.903673,
+    "loop": true,
+    "paused": true,
+    "ready": 4,
+    "time": 22.547756
+  },
+  "afterAd": {
+    "count": 1,
+    "duration": 69.903673,
+    "loop": true,
+    "paused": false,
+    "ready": 4,
+    "time": 22.609405
+  }
+}

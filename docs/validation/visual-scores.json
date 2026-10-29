@@ -1,0 +1,246 @@
+[
+  {
+    "fixture": "early",
+    "label": "01 前期回收",
+    "reference": "../concepts/01-early-game-v3.png",
+    "screenshot": "screenshots/01-early.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        0.5,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      4.0
+    ],
+    "total": 92.5,
+    "method": "manual weighted self-review, not pixel similarity"
+  },
+  {
+    "fixture": "clear_screen",
+    "label": "02 清屏就绪",
+    "reference": "../concepts/02-clear-screen-v3.png",
+    "screenshot": "screenshots/02-clear-screen.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        0,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      3.5
+    ],
+    "total": 92.0,
+    "method": "manual weighted self-review, not pixel similarity"
+  },
+  {
+    "fixture": "research",
+    "label": "03 研发",
+    "reference": "../concepts/03-research-v2.png",
+    "screenshot": "screenshots/03-research.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        0.5,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      27.5,
+      22.5,
+      15.0,
+      13.5,
+      10.0,
+      5.0
+    ],
+    "total": 93.5,
+    "method": "manual weighted self-review, not pixel similarity"
+  },
+  {
+    "fixture": "salvage",
+    "label": "04 仓库",
+    "reference": "../concepts/04-salvage-v2.png",
+    "screenshot": "screenshots/04-salvage.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        1,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      4.5
+    ],
+    "total": 93.0,
+    "method": "manual weighted self-review, not pixel similarity"
+  }
+]

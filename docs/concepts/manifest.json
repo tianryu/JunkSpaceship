@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-28",
+  "version": "v3-clear-screen",
+  "generator": "built-in image_gen",
+  "status": "concept-art-not-gameplay-captures",
+  "excludedFromRuntime": true,
+  "prompts": [
+    "PROMPTS.md",
+    "IMPLEMENTATION_PROMPTS.md"
+  ],
+  "images": [
+    {
+      "file": "01-early-game-v3.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1789065,
+      "sha256": "28c571c75524dab1a5b1230fc6a2afcde9488f8bf0e8ec3fb6f6f46c710b1e13"
+    },
+    {
+      "file": "02-clear-screen-v3.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1799770,
+      "sha256": "122afc609c4c10489d142370d5cda80cc321481a59090b57b2251c9250937501"
+    },
+    {
+      "file": "03-research-v2.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1572359,
+      "sha256": "bb4ca4e0ae92736ec772468948d5d1dadf42799f996a43de12adbb8a67103da0"
+    },
+    {
+      "file": "04-salvage-v2.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1624296,
+      "sha256": "14c96713b9a7f3073bf96db7d587bde2b524e0bad5b7c204163f4bd25e881ee1"
+    }
+  ],
+  "previousReferenceImages": [
+    {
+      "file": "01-early-game-v2.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1759399,
+      "sha256": "6d43b1763923cb17ce01d22be0170b95cdcb1a97a68ce06a925ebe760d1d014e"
+    },
+    {
+      "file": "02-overdrive-v2.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1850267,
+      "sha256": "23596c980445e38c9772d7a8429ef76156d1c1e7d388d9d0c0675795506ae911"
+    }
+  ],
+  "supplementalReferences": [
+    {
+      "file": "ships-atlas-v1.png",
+      "date": "2026-10-29",
+      "scope": "User-requested distinct chapter ship skins only; original four screen references remain for all other regions",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8ca070cac922d98f5c2544b68642a3f52c330ac31252d1e24a6780aca30fb21c",
+      "prompt": "../SHIP_STAGES.md"
+    }
+  ]
+}

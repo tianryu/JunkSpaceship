@@ -1,0 +1,21 @@
+{
+  "checkedChineseAndSymbols": 434,
+  "missingGlyphs": [],
+  "blankGlyphs": [],
+  "zipCRCFailure": null,
+  "entries": [
+    "art/ships.webp",
+    "art/skin.png",
+    "art/sprites.png",
+    "assets/index-CdDUeMnd.css",
+    "assets/index-DCU7mW1o.js",
+    "audio/LICENSE.txt",
+    "audio/outer-space.mp3",
+    "fonts/NOTICE.txt",
+    "fonts/OFL.txt",
+    "fonts/scrap-round.woff2",
+    "index.html"
+  ],
+  "zipBytes": 3170931,
+  "sha256": "1b7c39423752802ffabf52ee454067d82a218f5afe058833add2da524e6af907"
+}

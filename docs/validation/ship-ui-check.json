@@ -1,0 +1,16 @@
+{
+  "afterInstall": {
+    "cut": "65%",
+    "modal": "部件完成\n骨架\n\n飞船部件 1/5\n解锁货运艇\n\n继续回收追加 +1K\n广告",
+    "skin": "飞船外观：货运艇"
+  },
+  "finalUnlock": {
+    "cut": "0%",
+    "modal": "部件完成\n核心\n\n飞船部件 5/5\n解锁曙光号\n\n准备发射追加 +20M\n广告",
+    "skin": "飞船外观：曙光号"
+  },
+  "launch": {
+    "art": "background-position:100% 100%",
+    "title": "起航"
+  }
+}

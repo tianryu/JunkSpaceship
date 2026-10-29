@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28T15:06:10.082Z",
+  "snapshot": "- main \"废品飞船\":\n  - heading \"废品飞船\" [level=1]\n  - button \"设置\":\n  - strong: \"0\"\n  - generic: +1/s\n  - button \"资金补给\":\n  - region \"飞船进度\":\n    - strong: \"01\"\n    - generic: 废品堆\n    - generic: 骨架\n    - generic: 0%\n  - region \"拖动磁铁拆解废品\":\n    - generic \"回收作业区\"\n    - button \"清屏 广告\":\n      - generic: 清屏\n      - generic: 广告\n    - text: 拖动磁铁\n    - generic: 拆解废品，建造飞船\n  - heading \"升级\" [level=2]\n  - button \"升级说明\":\n  - button \"切换购买数量\":\n    - text: ×1\n  - text: 磁力\n  - generic: \"0\"\n  - button \"升级磁力\":\n    - text: \"10\"\n  - text: 范围\n  - generic: \"0\"\n  - button \"升级范围\":\n    - text: \"200\"\n  - text: 无人机\n  - generic: 0/6\n  - button \"升级无人机\":\n    - text: \"120\"\n  - text: 收益\n  - generic: \"0\"\n  - button \"升级收益\":\n    - text: \"240\"\n  - text: 机能\n  - generic: \"0\"\n  - button \"升级机能\" [disabled]:\n    - text: \"90\"\n  - text: 脉冲\n  - generic: \"0\"\n  - button \"升级脉冲\" [disabled]:\n    - text: 2K\n  - navigation \"主菜单\":\n    - button \"升级\":\n      - generic: 升级\n    - button \"研发\":\n      - generic: 研发\n    - button \"仓库\":\n      - generic: 仓库\n    - button \"补给\":\n      - generic: 补给\n  - status",
+  "debugElements": 0,
+  "fonts": "loaded",
+  "errors": [],
+  "unavailableAd": "- main \"废品飞船\":\n  - heading \"废品飞船\" [level=1]\n  - button \"设置\":\n  - strong: \"3\"\n  - generic: +1/s\n  - button \"资金补给\":\n  - region \"飞船进度\":\n    - strong: \"01\"\n    - generic: 废品堆\n    - generic: 骨架\n    - generic: 0%\n  - region \"拖动磁铁拆解废品\":\n    - generic \"回收作业区\"\n    - button \"清屏 广告\":\n      - generic: 清屏\n      - generic: 广告\n  - heading \"升级\" [level=2]\n  - button \"升级说明\":\n  - button \"切换购买数量\":\n    - text: ×1\n  - text: 磁力\n  - generic: \"1\"\n  - button \"升级磁力\":\n    - text: \"130\"\n  - text: 范围\n  - generic: \"0\"\n  - button \"升级范围\":\n    - text: \"200\"\n  - text: 无人机\n  - generic: 0/6\n  - button \"升级无人机\":\n    - text: \"120\"\n  - text: 收益\n  - generic: \"0\"\n  - button \"升级收益\":\n    - text: \"240\"\n  - text: 机能\n  - generic: \"0\"\n  - button \"升级机能\" [disabled]:\n    - text: \"90\"\n  - text: 脉冲\n  - generic: \"0\"\n  - button \"升级脉冲\" [disabled]:\n    - text: 2K\n  - navigation \"主菜单\":\n    - button \"升级\":\n      - generic: 升级\n    - button \"研发\":\n      - generic: 研发\n    - button \"仓库\":\n      - generic: 仓库\n    - button \"补给\":\n      - generic: 补给\n  - status: 暂无可用广告，继续回收吧",
+  "afterWallet": "3",
+  "afterLevel": "1",
+  "reloadWallet": "3",
+  "reloadLevel": "1",
+  "finalBuild": {
+    "at": "2026-10-28T15:32:04.019Z",
+    "rate": "+0/s",
+    "debugElements": 0,
+    "errors": []
+  }
+}

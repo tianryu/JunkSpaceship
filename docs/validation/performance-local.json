@@ -1,0 +1,12 @@
+{
+  "environment": "Desktop in-app Chromium browser, 360x640 CSS viewport; not a phone measurement",
+  "start": {
+    "time": "2026-10-28T12:36:07.288Z",
+    "data": "{\"frames\":4,\"p95\":\"24.10\",\"entities\":24,\"drones\":0,\"effects\":0,\"playSeconds\":120,\"wallet\":100000000,\"chapter\":4,\"pending\":false,\"settled\":0,\"heap\":20390622}"
+  },
+  "end": {
+    "time": "2026-10-28T12:51:57.538Z",
+    "data": "{\"frames\":600,\"p95\":\"6.20\",\"entities\":30,\"drones\":6,\"effects\":0,\"playSeconds\":1033,\"wallet\":1242002182.7495334,\"chapter\":4,\"pending\":false,\"settled\":0,\"heap\":17601077}",
+    "errors": []
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "generatedAt": "2026-10-28T13:54:39.290Z",
+  "notes": "Shared engine, deterministic strategy, 0.25s step. Ad wall time assumed 30s. Not a human playtest.",
+  "results": [
+    {
+      "route": "active",
+      "seed": 17,
+      "completed": true,
+      "minutes": 45.05,
+      "wallMinutes": 45.05,
+      "chapters": [
+        5,
+        10.6,
+        18.6,
+        28.6,
+        45.05
+      ],
+      "ads": 0,
+      "scrap": 16070,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4191793586
+    },
+    {
+      "route": "active",
+      "seed": 42,
+      "completed": true,
+      "minutes": 48.36,
+      "wallMinutes": 48.36,
+      "chapters": [
+        4.83,
+        10.85,
+        19.02,
+        29.47,
+        48.37
+      ],
+      "ads": 0,
+      "scrap": 15810,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4165886394
+    },
+    {
+      "route": "active",
+      "seed": 97,
+      "completed": true,
+      "minutes": 46.43,
+      "wallMinutes": 46.43,
+      "chapters": [
+        6,
+        11.68,
+        19.67,
+        29.35,
+        46.43
+      ],
+      "ads": 0,
+      "scrap": 13455,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 3770680188
+    },
+    {
+      "route": "ideal",
+      "seed": 17,
+      "completed": true,
+      "minutes": 36.92,
+      "wallMinutes": 36.92,
+      "chapters": [
+        3.37,
+        7.08,
+        13.52,
+        21.98,
+        36.93
+      ],
+      "ads": 0,
+      "scrap": 15904,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4172080459
+    },
+    {
+      "route": "ideal",
+      "seed": 42,
+      "completed": true,
+      "minutes": 36.65,
+      "wallMinutes": 36.65,
+      "chapters": [
+        3.3,
+        6.93,
+        13.22,
+        21.73,
+        36.65
+      ],
+      "ads": 0,
+      "scrap": 15896,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4167420956
+    },
+    {
+      "route": "ideal",
+      "seed": 97,
+      "completed": true,
+      "minutes": 33.33,
+      "wallMinutes": 33.33,
+      "chapters": [
+        3.67,
+        7.18,
+        13.18,
+        20.4,
+        33.33
+      ],
+      "ads": 0,
+      "scrap": 13754,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 3808883515
+    },
+    {
+      "route": "idle",
+      "seed": 17,
+      "completed": true,
+      "minutes": 67.88,
+      "wallMinutes": 67.88,
+      "chapters": [
+        8.75,
+        20.73,
+        34.13,
+        49.13,
+        67.88
+      ],
+      "ads": 0,
+      "scrap": 15975,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4197981588
+    },
+    {
+      "route": "idle",
+      "seed": 42,
+      "completed": true,
+      "minutes": 75.46,
+      "wallMinutes": 75.46,
+      "chapters": [
+        9.58,
+        21.03,
+        34.73,
+        50.78,
+        75.47
+      ],
+      "ads": 0,
+      "scrap": 15851,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4184315952
+    },
+    {
+      "route": "idle",
+      "seed": 97,
+      "completed": true,
+      "minutes": 77.47,
+      "wallMinutes": 77.47,
+      "chapters": [
+        10.83,
+        23.67,
+        39.18,
+        55.65,
+        77.47
+      ],
+      "ads": 0,
+      "scrap": 13762,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 3809469671
+    },
+    {
+      "route": "mixed",
+      "seed": 17,
+      "completed": true,
+      "minutes": 43.53,
+      "wallMinutes": 50.53,
+      "chapters": [
+        4.18,
+        10.18,
+        17.88,
+        27.53,
+        43.53
+      ],
+      "ads": 14,
+      "scrap": 15837,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4906674280
+    },
+    {
+      "route": "mixed",
+      "seed": 42,
+      "completed": true,
+      "minutes": 47.15,
+      "wallMinutes": 54.65,
+      "chapters": [
+        4.63,
+        10.05,
+        18.18,
+        28.5,
+        47.15
+      ],
+      "ads": 15,
+      "scrap": 15589,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4723352484
+    },
+    {
+      "route": "mixed",
+      "seed": 97,
+      "completed": true,
+      "minutes": 43.23,
+      "wallMinutes": 50.23,
+      "chapters": [
+        5.02,
+        9.82,
+        17.57,
+        27.4,
+        43.23
+      ],
+      "ads": 14,
+      "scrap": 13464,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4534523063
+    },
+    {
+      "route": "cash",
+      "seed": 17,
+      "completed": true,
+      "minutes": 39.25,
+      "wallMinutes": 72.25,
+      "chapters": [
+        3.87,
+        8.52,
+        15.05,
+        24.03,
+        39.25
+      ],
+      "ads": 66,
+      "scrap": 14979,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 11431860117
+    },
+    {
+      "route": "cash",
+      "seed": 42,
+      "completed": true,
+      "minutes": 42.48,
+      "wallMinutes": 78.47,
+      "chapters": [
+        4.07,
+        8.5,
+        14.97,
+        24.48,
+        42.48
+      ],
+      "ads": 72,
+      "scrap": 14941,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 11037071767
+    },
+    {
+      "route": "cash",
+      "seed": 97,
+      "completed": true,
+      "minutes": 40.22,
+      "wallMinutes": 74.22,
+      "chapters": [
+        4.87,
+        9.18,
+        15.45,
+        24.2,
+        40.22
+      ],
+      "ads": 68,
+      "scrap": 12669,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 10436597244
+    },
+    {
+      "route": "clear",
+      "seed": 17,
+      "completed": true,
+      "minutes": 40.59,
+      "wallMinutes": 74.59,
+      "chapters": [
+        2.75,
+        7.07,
+        14.75,
+        24.25,
+        40.6
+      ],
+      "ads": 68,
+      "scrap": 15955,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4191741235
+    },
+    {
+      "route": "clear",
+      "seed": 42,
+      "completed": true,
+      "minutes": 43.71,
+      "wallMinutes": 80.71,
+      "chapters": [
+        3.33,
+        7.83,
+        14.87,
+        25.12,
+        43.72
+      ],
+      "ads": 74,
+      "scrap": 15740,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 4146518873
+    },
+    {
+      "route": "clear",
+      "seed": 97,
+      "completed": true,
+      "minutes": 38.83,
+      "wallMinutes": 71.33,
+      "chapters": [
+        3.33,
+        7.83,
+        14.78,
+        23.73,
+        38.83
+      ],
+      "ads": 65,
+      "scrap": 13736,
+      "upgrades": {
+        "power": 25,
+        "range": 5,
+        "drones": 6,
+        "dronePower": 25,
+        "value": 25,
+        "pulse": 5
+      },
+      "cores": {
+        "hand": 10,
+        "drone": 10
+      },
+      "plugins": {
+        "arc": 5,
+        "magnet": 5,
+        "swarm": 5,
+        "cutter": 5,
+        "resonance": 5,
+        "sorter": 5
+      },
+      "wallet": 3790349028
+    }
+  ]
+}

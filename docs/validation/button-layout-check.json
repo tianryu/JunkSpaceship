@@ -1,0 +1,68 @@
+[
+  {
+    "size": [
+      360,
+      640
+    ],
+    "fixture": "early",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  },
+  {
+    "size": [
+      360,
+      640
+    ],
+    "fixture": "clear_screen",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  },
+  {
+    "size": [
+      390,
+      844
+    ],
+    "fixture": "early",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  },
+  {
+    "size": [
+      390,
+      844
+    ],
+    "fixture": "clear_screen",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  },
+  {
+    "size": [
+      412,
+      915
+    ],
+    "fixture": "early",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  },
+  {
+    "size": [
+      412,
+      915
+    ],
+    "fixture": "clear_screen",
+    "buttonCount": 6,
+    "client": 350,
+    "nestedButtons": 0,
+    "scroll": 350
+  }
+]

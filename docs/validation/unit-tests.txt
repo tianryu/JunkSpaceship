@@ -1,0 +1,51 @@
+
+> scrapship@0.1.0 test
+> tsx --test tests/*.test.ts
+
+✔ upgrades obey affordability, chapter caps, prerequisites and maximum purchase (1.844ms)
+✔ normal salvage probability boundaries, compensation source and pity (0.4418ms)
+✔ research uniform candidate endpoints, max exclusion, duplicates and all-max exchange (0.315ms)
+✔ three unique equipped plugins apply their effect once (0.3728ms)
+✔ cash_supply: complete exactly once; duplicate request and close cannot consume twice (0.617ms)
+✔ cash_supply: cancellation and reload preserve consumable resources (0.5875ms)
+✔ clear_screen: complete exactly once; duplicate request and close cannot consume twice (0.3548ms)
+✔ clear_screen: cancellation and reload preserve consumable resources (0.2725ms)
+✔ precision_salvage: complete exactly once; duplicate request and close cannot consume twice (0.2545ms)
+✔ precision_salvage: cancellation and reload preserve consumable resources (0.4565ms)
+✔ targeted_research: complete exactly once; duplicate request and close cannot consume twice (0.1459ms)
+✔ targeted_research: cancellation and reload preserve consumable resources (0.2012ms)
+✔ offline_double: complete exactly once; duplicate request and close cannot consume twice (0.1021ms)
+✔ offline_double: cancellation and reload preserve consumable resources (0.1556ms)
+✔ settlement_bonus: complete exactly once; duplicate request and close cannot consume twice (0.13ms)
+✔ settlement_bonus: cancellation and reload preserve consumable resources (0.1905ms)
+✔ cash reward is frozen at the promised reference rate (0.1176ms)
+✔ clear screen snapshots all objects and settles real money, research, crate and order progress once (4.7823ms)
+✔ clear screen cancellation, empty arena and malformed snapshots do not pay (1.2881ms)
+✔ first ad gated on 60 effective seconds and both teaching steps (0.1941ms)
+✔ offline capped, clock rollback ignored, each receipt can be claimed once (0.2443ms)
+✔ no drone means no displayed automatic rate or offline income; minimum ad supply remains available (0.2258ms)
+✔ refresh during an unconfirmed ad cannot also create offline income (0.2319ms)
+✔ five chapters install once, then launch and complete repeat orders (0.3964ms)
+✔ one junk death pays once, battery chain bounded, entity and drone caps (173.3209ms)
+✔ auto income and chapter progress continue without ads (43.5268ms)
+✔ atomic snapshot preserves previous state on failed persistence (0.7276ms)
+✔ invalid JSON and impossible values recover without a crash (0.2693ms)
+✔ reset writes a fresh save and clears the previous resources (0.2195ms)
+✔ reward persistence failure can retry the same receipt without double payment (0.3831ms)
+✔ SDK show resolution gives no reward; only strict complete close does (12.3965ms)
+✔ SDK double click is rejected and failed show retries only once (0.6032ms)
+✔ SDK error followed by late complete close never awards (0.2774ms)
+✔ seeded random stream reproducible and 35% samples within 0.5 point (3.5696ms)
+✔ guide requires recycling, then affordable power and first drone without free rewards (1.5918ms)
+✔ guide dismissal and replay never unlock ads or mutate gameplay milestones (1.2635ms)
+✔ old saves keep mute choice and advanced progress when adding music and guide (0.3936ms)
+✔ equipment CTA supports three slots and unequip before switching at capacity (0.2475ms)
+✔ each chapter unlocks a distinct hull and the final hull survives launch and reload (2.2639ms)
+ℹ tests 39
+ℹ suites 0
+ℹ pass 39
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 43393.0293

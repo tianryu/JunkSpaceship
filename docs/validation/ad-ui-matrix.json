@@ -1,0 +1,198 @@
+{
+  "environment": "Local IAB, DEV mock only",
+  "testedAt": "2026-10-28T12:30:41.662Z",
+  "results": [
+    {
+      "placement": "clear_screen",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":74,\"p95\":\"24.30\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":12448516}"
+    },
+    {
+      "placement": "clear_screen",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":70,\"p95\":\"24.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":18873475}"
+    },
+    {
+      "placement": "cash_supply",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":56,\"p95\":\"24.30\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2823,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":19448076}"
+    },
+    {
+      "placement": "cash_supply",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":73,\"p95\":\"24.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19742736}"
+    },
+    {
+      "placement": "cash_supply",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":72,\"p95\":\"24.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":18926637}"
+    },
+    {
+      "placement": "cash_supply",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":75,\"p95\":\"24.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20137249}"
+    },
+    {
+      "placement": "targeted_research",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":84,\"p95\":\"24.10\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":19556872}"
+    },
+    {
+      "placement": "targeted_research",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":94,\"p95\":\"18.30\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20280881}"
+    },
+    {
+      "placement": "targeted_research",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":96,\"p95\":\"24.20\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19382894}"
+    },
+    {
+      "placement": "targeted_research",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":95,\"p95\":\"24.20\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19303444}"
+    },
+    {
+      "placement": "precision_salvage",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":84,\"p95\":\"24.20\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":19188293}"
+    },
+    {
+      "placement": "precision_salvage",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":98,\"p95\":\"18.30\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19330069}"
+    },
+    {
+      "placement": "precision_salvage",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":98,\"p95\":\"24.20\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19381388}"
+    },
+    {
+      "placement": "precision_salvage",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":97,\"p95\":\"18.30\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20282698}"
+    },
+    {
+      "placement": "offline_double",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":128,\"p95\":\"6.20\",\"entities\":24,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":13280,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":19205038}"
+    },
+    {
+      "placement": "offline_double",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": true,
+      "diagnostics": "{\"frames\":143,\"p95\":\"6.20\",\"entities\":24,\"drones\":0,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":19559515}"
+    },
+    {
+      "placement": "offline_double",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": true,
+      "diagnostics": "{\"frames\":144,\"p95\":\"6.10\",\"entities\":24,\"drones\":0,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20285204}"
+    },
+    {
+      "placement": "offline_double",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": true,
+      "diagnostics": "{\"frames\":143,\"p95\":\"6.20\",\"entities\":24,\"drones\":0,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20263678}"
+    },
+    {
+      "placement": "settlement_bonus",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":173,\"p95\":\"6.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":3480,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":20156634}"
+    },
+    {
+      "placement": "settlement_bonus",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":193,\"p95\":\"6.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20214838}"
+    },
+    {
+      "placement": "settlement_bonus",
+      "outcome": "unavailable",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":192,\"p95\":\"6.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20233302}"
+    },
+    {
+      "placement": "settlement_bonus",
+      "outcome": "error",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":194,\"p95\":\"6.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":21167832}"
+    },
+    {
+      "placement": "clear_screen",
+      "outcome": "completed",
+      "rewarded": true,
+      "preserved": false,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":126,\"p95\":\"6.20\",\"entities\":0,\"drones\":0,\"effects\":2,\"playSeconds\":120,\"wallet\":2628.119999999999,\"chapter\":0,\"pending\":false,\"settled\":1,\"heap\":19394630}"
+    },
+    {
+      "placement": "clear_screen",
+      "outcome": "cancelled",
+      "rewarded": false,
+      "preserved": true,
+      "offlineStillAvailable": false,
+      "diagnostics": "{\"frames\":143,\"p95\":\"6.20\",\"entities\":25,\"drones\":1,\"effects\":0,\"playSeconds\":120,\"wallet\":2480,\"chapter\":0,\"pending\":false,\"settled\":0,\"heap\":20122103}"
+    }
+  ]
+}

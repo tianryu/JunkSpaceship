@@ -1,0 +1,11 @@
+{
+  "music": {
+    "duration": 69.903673,
+    "paused": false,
+    "ready": 4,
+    "src": "./audio/outer-space.mp3",
+    "time": 57.087245
+  },
+  "skin": "0",
+  "testBanner": 0
+}

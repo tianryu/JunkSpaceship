@@ -1,0 +1,50 @@
+{
+  "title": "废品飞船",
+  "navigation": [
+    "升级",
+    "研发",
+    "仓库",
+    "补给"
+  ],
+  "upgrades": {
+    "power": "磁力",
+    "range": "范围",
+    "drones": "无人机",
+    "dronePower": "机能",
+    "value": "收益",
+    "pulse": "脉冲"
+  },
+  "plugins": {
+    "arc": "电弧",
+    "magnet": "强磁",
+    "swarm": "机群",
+    "cutter": "切割",
+    "resonance": "共振",
+    "sorter": "分拣"
+  },
+  "ads": {
+    "badge": "广告",
+    "watch": "看广告",
+    "targeted": "必得所选",
+    "core": "必得核心",
+    "cash": "领取资金",
+    "completeCondition": "完整观看后获得",
+    "cancelKeepsItem": "未完成不消耗",
+    "unavailable": "暂不可用",
+    "clear_screen": "清屏"
+  },
+  "research": {
+    "random": "随机",
+    "probability": "概率",
+    "details": "规则",
+    "chance": "机会"
+  },
+  "salvage": {
+    "title": "拆解",
+    "ordinary": "普通",
+    "precision": "精密",
+    "pity": "保底",
+    "core": "核心",
+    "guaranteed": "本次必得"
+  }
+}

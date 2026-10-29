@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary
+*.mp3 binary
+# Preserve the upstream license text byte-for-byte.
+public/fonts/OFL.txt whitespace=-blank-at-eol

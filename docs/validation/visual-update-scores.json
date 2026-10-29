@@ -1,0 +1,254 @@
+[
+  {
+    "fixture": "early",
+    "label": "01 鍓嶆湡鍥炴敹",
+    "reference": "../concepts/01-early-game-v3.png",
+    "screenshot": "screenshots/final-early.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        0.5,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      4.0
+    ],
+    "total": 92.5,
+    "method": "manual weighted review with user-requested ship reference update; not pixel similarity",
+    "supplementalReference": "../concepts/ships-atlas-v1.png",
+    "date": "2026-10-29"
+  },
+  {
+    "fixture": "clear_screen",
+    "label": "02 娓呭睆灏辩华",
+    "reference": "../concepts/02-clear-screen-v3.png",
+    "screenshot": "screenshots/final-clear_screen.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        0,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      3.5
+    ],
+    "total": 92.0,
+    "method": "manual weighted review with user-requested ship reference update; not pixel similarity",
+    "supplementalReference": "../concepts/ships-atlas-v1.png",
+    "date": "2026-10-29"
+  },
+  {
+    "fixture": "research",
+    "label": "03 鐮斿彂",
+    "reference": "../concepts/03-research-v2.png",
+    "screenshot": "screenshots/final-research.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        0.5,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      25.0,
+      22.5,
+      15.0,
+      13.5,
+      10.0,
+      5.0
+    ],
+    "total": 91.0,
+    "method": "manual weighted review with user-requested ship reference update; not pixel similarity",
+    "supplementalReference": "../concepts/ships-atlas-v1.png",
+    "date": "2026-10-29"
+  },
+  {
+    "fixture": "salvage",
+    "label": "04 浠撳簱",
+    "reference": "../concepts/04-salvage-v2.png",
+    "screenshot": "screenshots/final-salvage.jpg",
+    "criteria": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        0.5
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0.5,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0.5,
+        1,
+        1,
+        1
+      ]
+    ],
+    "dimensionScores": [
+      30.0,
+      20.0,
+      15.0,
+      13.5,
+      10.0,
+      4.5
+    ],
+    "total": 93.0,
+    "method": "manual weighted review with user-requested ship reference update; not pixel similarity",
+    "supplementalReference": "../concepts/ships-atlas-v1.png",
+    "date": "2026-10-29"
+  }
+]

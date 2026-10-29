@@ -1,0 +1,52 @@
+{
+  "archive": "release/scrapship-h5-0.1.0.zip",
+  "zipBytes": 3170931,
+  "unpackedBytes": 3488657,
+  "sha256": "1b7c39423752802ffabf52ee454067d82a218f5afe058833add2da524e6af907",
+  "entries": [
+    {
+      "path": "art/ships.webp",
+      "bytes": 115894
+    },
+    {
+      "path": "art/skin.png",
+      "bytes": 1380376
+    },
+    {
+      "path": "art/sprites.png",
+      "bytes": 1121710
+    },
+    {
+      "path": "assets/index-CdDUeMnd.css",
+      "bytes": 25985
+    },
+    {
+      "path": "assets/index-DCU7mW1o.js",
+      "bytes": 50331
+    },
+    {
+      "path": "audio/LICENSE.txt",
+      "bytes": 559
+    },
+    {
+      "path": "audio/outer-space.mp3",
+      "bytes": 699603
+    },
+    {
+      "path": "fonts/NOTICE.txt",
+      "bytes": 473
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4375
+    },
+    {
+      "path": "fonts/scrap-round.woff2",
+      "bytes": 88916
+    },
+    {
+      "path": "index.html",
+      "bytes": 435
+    }
+  ]
+}

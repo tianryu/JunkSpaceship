@@ -1,0 +1,13 @@
+Outer Space Loop
+Author: wipics
+Source: https://opengameart.org/content/outer-space-loop
+Original file: https://opengameart.org/sites/default/files/outer_space_2.mp3
+Published: 2020-06-03
+Retrieved: 2026-10-29
+
+The author publishes this work under CC0 1.0 Universal (Public Domain).
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The game includes a compressed MP3 conversion for local, looping playback.
+Attribution is provided voluntarily and does not imply endorsement.

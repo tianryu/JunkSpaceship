@@ -1,0 +1,69 @@
+{
+  "buildVersion": "0.1.0",
+  "generatedAt": "2026-10-29T03:14:06.991Z",
+  "unpackedBytes": 3488657,
+  "firstScreenUpperBoundBytes": 2788495,
+  "deferredAudioBytes": 700162,
+  "runtimeTargetBytes": 10000000,
+  "hardLimitExclusiveBytes": 20000000,
+  "productionMockDisabled": true,
+  "files": [
+    {
+      "file": "art/skin.png",
+      "bytes": 1380376,
+      "sha256": "42d0cd2958b713c42e8153ad249ba0293734a9843c421a8c0ac9c90fe3a3b07a"
+    },
+    {
+      "file": "art/sprites.png",
+      "bytes": 1121710,
+      "sha256": "1753e51d8a1a4c151bb126cfe3797d620f890a8c80b0ad315f51d674807a6ff9"
+    },
+    {
+      "file": "audio/outer-space.mp3",
+      "bytes": 699603,
+      "sha256": "57ddfe32be2f382a8730657e543830acf44bd4ba1a23202c0eac301099c68d99"
+    },
+    {
+      "file": "art/ships.webp",
+      "bytes": 115894,
+      "sha256": "fd8210eae8641f71008bb71bfb4f793df0f27d14e1557d11fc01da01a27d7d4b"
+    },
+    {
+      "file": "fonts/scrap-round.woff2",
+      "bytes": 88916,
+      "sha256": "70989998438011b5431fc7b2b3c9ebb882b3453021edcca911e6823560e97fd9"
+    },
+    {
+      "file": "assets/index-DCU7mW1o.js",
+      "bytes": 50331,
+      "sha256": "5b08995a34dc8cf3a38035a97b663e4c13d16ff280e5d0cdcf8bfd1365713a99"
+    },
+    {
+      "file": "assets/index-CdDUeMnd.css",
+      "bytes": 25985,
+      "sha256": "cbc3d6ed6789afcd3e1c328827c5c58ecc279aa0b093060b7be0bebcecb9028a"
+    },
+    {
+      "file": "fonts/OFL.txt",
+      "bytes": 4375,
+      "sha256": "d45891f8adfd21368c98e803603df1f575ff3fc4a6ec713ba7ccf0e3cba15b28"
+    },
+    {
+      "file": "audio/LICENSE.txt",
+      "bytes": 559,
+      "sha256": "465f7deba4e306d44f47fc3264661eaf80fa55f609dc345de060b39c4d6fa041"
+    },
+    {
+      "file": "fonts/NOTICE.txt",
+      "bytes": 473,
+      "sha256": "3204161e7c0c38b3a6dd762df173a55468e4e3f576bca4931c7c773a50e31647"
+    },
+    {
+      "file": "index.html",
+      "bytes": 435,
+      "sha256": "39ead0e7681af532db1e1b09e1eb54a7197aedffa0844e797e500bac92bd1cc6"
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

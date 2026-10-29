@@ -1,0 +1,7 @@
+{
+  "afterEquip": "已装配电弧\n点击卸下",
+  "full": "插槽已满\n先点上方插件卸下",
+  "fullDisabled": true,
+  "unowned": "尚未获得切割\n先研发解锁此插件",
+  "afterUnequip": "装配电弧\n剩余插槽 1/3"
+}

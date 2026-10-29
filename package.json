@@ -1,0 +1,23 @@
+{
+  "name": "scrapship",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && node scripts/build.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "tsx --test tests/*.test.ts",
+    "simulate": "tsx scripts/simulate.ts",
+    "audit": "node scripts/audit.mjs",
+    "package": "npm run build && npm run audit && node scripts/package.mjs",
+    "format": "prettier --write src tests scripts/*.ts vite.config.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

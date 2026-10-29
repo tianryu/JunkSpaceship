@@ -1,0 +1,100 @@
+.ship-art {
+  display: inline-block;
+  width: 104px;
+  height: 104px;
+  background: url("/art/ships.webp") no-repeat;
+  background-size: 300% 200%;
+  flex-shrink: 0;
+}
+#rocket {
+  inset: auto;
+  position: absolute;
+  left: 134px;
+  top: -3px;
+  width: 140px;
+  height: 102px;
+  padding: 0;
+  pointer-events: auto;
+  border-radius: 10px;
+}
+#rocket:before,
+#rocket:after {
+  display: none;
+}
+#rocket .ship-art {
+  position: absolute;
+  left: 18px;
+  top: -2px;
+}
+#rocket .ship-blueprint {
+  opacity: 0.65;
+  filter: grayscale(0.85) brightness(0.7);
+}
+#rocket .ship-built {
+  clip-path: inset(var(--build-cut, 0%) 0 0 0);
+  filter: drop-shadow(0 2px 2px #00101b);
+}
+.ship-skin-name {
+  position: absolute;
+  bottom: 0;
+  left: 31px;
+  right: 31px;
+  font-size: 10px;
+  line-height: 14px;
+  color: #c6ebf4;
+  border-radius: 4px;
+  background: #092438db;
+}
+.hangar-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+.hangar-ship {
+  text-align: center;
+  border: 1px solid #315e76;
+  border-radius: 9px;
+  background: #071f32;
+  padding: 3px 0 6px;
+}
+.hangar-ship .ship-art {
+  width: 104px;
+  height: 104px;
+  display: block;
+  margin: auto;
+}
+.hangar-ship strong {
+  display: block;
+  font-size: 13px;
+}
+.hangar-ship small {
+  display: block;
+  font-size: 10px;
+  color: #a0bccb;
+  margin-top: 3px;
+}
+.hangar-ship.locked .ship-art {
+  filter: grayscale(1);
+  opacity: 0.4;
+}
+.hangar-ship.current {
+  border-color: #ffce72;
+  box-shadow: inset 0 0 10px #ffbf4020;
+}
+.hangar-ship.current strong {
+  color: #ffdb8b;
+}
+.modal .reward-ship {
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+}
+.launch-scene > .ship-art {
+  width: 240px;
+  height: 240px;
+  animation: takeoff 12s ease-in both;
+}
+.reduced .launch-scene > .ship-art {
+  animation: none;
+}

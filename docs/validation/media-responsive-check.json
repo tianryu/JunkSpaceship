@@ -1,0 +1,194 @@
+[
+  {
+    "fixture": "early",
+    "requested": {
+      "width": 320,
+      "height": 568
+    },
+    "app": {
+      "h": 568,
+      "w": 320
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "early",
+    "requested": {
+      "width": 360,
+      "height": 640
+    },
+    "app": {
+      "h": 640,
+      "w": 360
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "early",
+    "requested": {
+      "width": 430,
+      "height": 932
+    },
+    "app": {
+      "h": 932,
+      "w": 430
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "clear_screen",
+    "requested": {
+      "width": 320,
+      "height": 568
+    },
+    "app": {
+      "h": 568,
+      "w": 320
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "clear_screen",
+    "requested": {
+      "width": 360,
+      "height": 640
+    },
+    "app": {
+      "h": 640,
+      "w": 360
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "clear_screen",
+    "requested": {
+      "width": 430,
+      "height": 932
+    },
+    "app": {
+      "h": 932,
+      "w": 430
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "research",
+    "requested": {
+      "width": 320,
+      "height": 568
+    },
+    "app": {
+      "h": 568,
+      "w": 320
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "research",
+    "requested": {
+      "width": 360,
+      "height": 640
+    },
+    "app": {
+      "h": 640,
+      "w": 360
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "research",
+    "requested": {
+      "width": 430,
+      "height": 932
+    },
+    "app": {
+      "h": 932,
+      "w": 430
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "salvage",
+    "requested": {
+      "width": 320,
+      "height": 568
+    },
+    "app": {
+      "h": 568,
+      "w": 320
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "salvage",
+    "requested": {
+      "width": 360,
+      "height": 640
+    },
+    "app": {
+      "h": 640,
+      "w": 360
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  },
+  {
+    "fixture": "salvage",
+    "requested": {
+      "width": 430,
+      "height": 932
+    },
+    "app": {
+      "h": 932,
+      "w": 430
+    },
+    "game": {
+      "client": 360,
+      "scroll": 360
+    },
+    "textOverflow": []
+  }
+]
